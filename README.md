@@ -16,3 +16,6 @@ Schematic            |  PCB         |   Case
 - 4x SK6812 MINI LEDs
 - 6x MX-Style switches
 - 6x Blank DSA keycaps
+
+# Why did I build this?
+  Recently, I bought a 60% keyboard, and I miss having the 6 function keys, as I used them very often. This project is a fix for this problem -- a macropad for those extra 6 function keys!
